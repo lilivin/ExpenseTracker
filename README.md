@@ -4,5 +4,5 @@ Strona na które możemy śledzić nasze wydatki wykonana przy pomocy poniższyc
 
 ### Technologie:
 - React
-= React Hooks
+- React Hooks
 - Styled Components
